@@ -6,5 +6,3 @@ A simple example of how to hotfix with a single commit to better work with Git F
 - Dev commit 1
 - Dev commit 2
 - Dev commit 6
-
-Lets's try this
