@@ -5,4 +5,4 @@ A simple example of how to hotfix with a single commit to better work with Git F
 
 - Dev commit 1
 - Dev commit 2
-- Dev commit 4
+- Dev commit 3
